@@ -102,7 +102,7 @@ New island, new mechanics, and new iconic POIs that defined the Chapter 2 era. T
 
 ---
 
-## 🚀 Stark Industries (Season 4)
+## The Shark
 
 | Icon | POI Name | Description |
 |------|----------|-------------|
