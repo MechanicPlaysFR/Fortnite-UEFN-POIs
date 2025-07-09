@@ -106,7 +106,7 @@ New island, new mechanics, and new iconic POIs that defined the Chapter 2 era. T
 
 | Icon | POI Name | Description |
 |------|----------|-------------|
-| <img src=".assets/landscape_comp (4).jpeg" width="256"/> | | **[The Shark](https://raw.githubusercontent.com/ZeroCreates/Fortnite-UEFN-POIs/main/SpawnerTexts/The Shark.txt)**<br>*(Ported by: MCPS)**<br><br>**Source: Chapter 2 Island** | Visually Modified: ✔️<br>Requires External Download: ❌|
+| <img src=".assets/landscape_comp (4).jpeg" width="256"/> | **[The Shark](https://github.com/MechanicPlaysFR/Fortnite-UEFN-POIs/blob/af783766c630c8208c420f92922f1f4758f75a96/SpawnerTexts/The%20Shark.txt)**<br>**(Ported by: MCPS)**<br><br>**Source: Chapter 2 Island** | Visually Modified: ✔️<br>Requires External Download: ❌|
 
 ---
 
