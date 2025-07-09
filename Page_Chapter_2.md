@@ -62,7 +62,7 @@ New island, new mechanics, and new iconic POIs that defined the Chapter 2 era. T
 
 ---
 
-## 🏰 The Authority / The Agency
+## 🏰 The Agency
 
 | Icon | POI Name | Description |
 |------|----------|-------------|
@@ -110,7 +110,7 @@ New island, new mechanics, and new iconic POIs that defined the Chapter 2 era. T
 
 ---
 
-## 👑 Doom’s Domain
+##  Fortilla
 
 | Icon | POI Name | Description |
 |------|----------|-------------|
