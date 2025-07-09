@@ -106,7 +106,7 @@ New island, new mechanics, and new iconic POIs that defined the Chapter 2 era. T
 
 | Icon | POI Name | Description |
 |------|----------|-------------|
-| <img src=".assets/landscape_comp (4).jpeg" width="256"/> | **[The Shark](SpawnerTexts/The Shark.txt)**<br>**(Ported by: MCPS)**<br><br>**Source: Chapter 2 Island** | Visually Modified: ✔️<br>Requires External Download: ❌|
+| <img src=".assets/landscape_comp (4).jpeg" width="256"/> | **[The Shark](<ins> SpawnerTexts/The Shark.txt </ins>)**<br>**(Ported by: MCPS)**<br><br>**Source: Chapter 2 Island** | Visually Modified: ✔️<br>Requires External Download: ❌|
 
 ---
 
