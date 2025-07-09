@@ -10,7 +10,7 @@ This page contains the most iconic and popular POIs from Fortnite Chapter 1 Isla
 
 | Icon | POI Name | Description |
 |------|----------|-------------|
-| <img src=".assets/Tilted_Towers_Skyline.png" width="256"/> | Tilted Towers | The busiest urban POI with skyscrapers and intense action. |
+| <img src="assets/Tilted_Towers_Skyline.png" width="256"/> | Tilted Towers | The busiest urban POI with skyscrapers and intense action. |
 
 ---
 
@@ -18,7 +18,7 @@ This page contains the most iconic and popular POIs from Fortnite Chapter 1 Isla
 
 | Icon | POI Name | Description |
 |------|----------|-------------|
-| <img src=".assets/Moisty_Mire_Swamp.png" width="256"/> | Moisty Mire | Swampy area with lots of trees and water, great for ambushes. |
+| <img src="assets/Moisty_Mire_Swamp.png" width="256"/> | Moisty Mire | Swampy area with lots of trees and water, great for ambushes. |
 
 ---
 
@@ -26,7 +26,7 @@ This page contains the most iconic and popular POIs from Fortnite Chapter 1 Isla
 
 | Icon | POI Name | Description |
 |------|----------|-------------|
-| <img src=".assets/Wailing_Woods_Forest.png" width="256"/> | Wailing Woods | Dense forest featuring a maze and hidden cabins. |
+| <img src="assets/Wailing_Woods_Forest.png" width="256"/> | Wailing Woods | Dense forest featuring a maze and hidden cabins. |
 
 ---
 
@@ -34,7 +34,7 @@ This page contains the most iconic and popular POIs from Fortnite Chapter 1 Isla
 
 | Icon | POI Name | Description |
 |------|----------|-------------|
-| <img src=".assets/Paradise_Palms_Desert.png" width="256"/> | Paradise Palms | Desert-themed POI with hotels and shops, open layouts. |
+| <img src="assets/Paradise_Palms_Desert.png" width="256"/> | Paradise Palms | Desert-themed POI with hotels and shops, open layouts. |
 
 ---
 
@@ -42,7 +42,7 @@ This page contains the most iconic and popular POIs from Fortnite Chapter 1 Isla
 
 | Icon | POI Name | Description |
 |------|----------|-------------|
-| <img src=".assets/Dusty_Divot_Crater.png" width="256"/> | Dusty Divot | Large meteor crater with research labs and loot spots. |
+| <img src="assets/Dusty_Divot_Crater.png" width="256"/> | Dusty Divot | Large meteor crater with research labs and loot spots. |
 
 ---
 
@@ -50,7 +50,7 @@ This page contains the most iconic and popular POIs from Fortnite Chapter 1 Isla
 
 | Icon | POI Name | Description |
 |------|----------|-------------|
-| <img src=".assets/Pleasant_Park_Houses.png" width="256"/> | Pleasant Park | Residential suburb with houses and a central park. |
+| <img src="assets/Pleasant_Park_Houses.png" width="256"/> | Pleasant Park | Residential suburb with houses and a central park. |
 
 ---
 
@@ -58,7 +58,7 @@ This page contains the most iconic and popular POIs from Fortnite Chapter 1 Isla
 
 | Icon | POI Name | Description |
 |------|----------|-------------|
-| <img src=".assets/Risky_Reels_Cinema.png" width="256"/> | Risky Reels | Drive-in movie theater with open terrain and structures. |
+| <img src="assets/Risky_Reels_Cinema.png" width="256"/> | Risky Reels | Drive-in movie theater with open terrain and structures. |
 
 ---
 
@@ -66,7 +66,7 @@ This page contains the most iconic and popular POIs from Fortnite Chapter 1 Isla
 
 | Icon | POI Name | Description |
 |------|----------|-------------|
-| <img src=".assets/Retail_Row_Mall.png" width="256"/> | Retail Row | Shopping district with stores and houses. |
+| <img src="assets/Retail_Row_Mall.png" width="256"/> | Retail Row | Shopping district with stores and houses. |
 
 ---
 
@@ -74,7 +74,7 @@ This page contains the most iconic and popular POIs from Fortnite Chapter 1 Isla
 
 | Icon | POI Name | Description |
 |------|----------|-------------|
-| <img src=".assets/Loot_Lake_Island.png" width="256"/> | Loot Lake | Central lake with an island and various buildings. |
+| <img src="assets/Loot_Lake_Island.png" width="256"/> | Loot Lake | Central lake with an island and various buildings. |
 
 ---
 
@@ -82,7 +82,7 @@ This page contains the most iconic and popular POIs from Fortnite Chapter 1 Isla
 
 | Icon | POI Name | Description |
 |------|----------|-------------|
-| <img src=".assets/Salty_Springs_Houses.png" width="256"/> | Salty Springs | Quiet residential area with compact houses. |
+| <img src="assets/Salty_Springs_Houses.png" width="256"/> | Salty Springs | Quiet residential area with compact houses. |
 
 ---
 
@@ -90,7 +90,7 @@ This page contains the most iconic and popular POIs from Fortnite Chapter 1 Isla
 
 | Icon | POI Name | Description |
 |------|----------|-------------|
-| <img src=".assets/Tomato_Town_Buildings.png" width="256"/> | Tomato Town | Small town with fast looting and tight fights. |
+| <img src="assets/Tomato_Town_Buildings.png" width="256"/> | Tomato Town | Small town with fast looting and tight fights. |
 
 ---
 
@@ -98,7 +98,7 @@ This page contains the most iconic and popular POIs from Fortnite Chapter 1 Isla
 
 | Icon | POI Name | Description |
 |------|----------|-------------|
-| <img src=".assets/Junk_Junction_Scrapyard.png" width="256"/> | Junk Junction | Large scrapyard with junk piles and containers. |
+| <img src="assets/Junk_Junction_Scrapyard.png" width="256"/> | Junk Junction | Large scrapyard with junk piles and containers. |
 
 ---
 
@@ -106,7 +106,7 @@ This page contains the most iconic and popular POIs from Fortnite Chapter 1 Isla
 
 | Icon | POI Name | Description |
 |------|----------|-------------|
-| <img src=".assets/Haunted_Hills_Graveyard.png" width="256"/> | Haunted Hills | Graveyard-themed POI with spooky buildings. |
+| <img src="assets/Haunted_Hills_Graveyard.png" width="256"/> | Haunted Hills | Graveyard-themed POI with spooky buildings. |
 
 ---
 
@@ -114,7 +114,7 @@ This page contains the most iconic and popular POIs from Fortnite Chapter 1 Isla
 
 | Icon | POI Name | Description |
 |------|----------|-------------|
-| <img src=".assets/Spawn_Island_Area.png" width="256"/> | Spawn Island | The pre-game lobby island where all players start. |
+| <img src="assets/Spawn_Island_Area.png" width="256"/> | Spawn Island | The pre-game lobby island where all players start. |
 
 ---
 
@@ -129,5 +129,3 @@ This page contains the most iconic and popular POIs from Fortnite Chapter 1 Isla
 ## 🧾 Credits
 
 All images and POI info compiled for easy reference — inspired by Fortnite’s original map design.
-
----
