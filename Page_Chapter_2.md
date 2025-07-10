@@ -126,6 +126,28 @@ New island, new mechanics, and new iconic POIs that defined the Chapter 2 era. T
 
 ---
 
+
+## 🌀 Salty Towers
+
+| Icon | POI Name | Description |
+|------|----------|-------------|
+| <img src=".assets/The_Spire.png" width="256"/> | The Spire | Towered temple in the middle of the island with Guardians. |
+
+---
+## 🌀 Catty Corner
+
+| Icon | POI Name | Description |
+|------|----------|-------------|
+| <img src=".assets/The_Spire.png" width="256"/> | The Spire | Towered temple in the middle of the island with Guardians. |
+
+---
+## 🌀 Pleasent Park
+
+| Icon | POI Name | Description |
+|------|----------|-------------|
+| <img src=".assets/The_Spire.png" width="256"/> | The Spire | Towered temple in the middle of the island with Guardians. |
+
+---
 ## 🔧 How To Use This Page
 
 - Browse the POIs visually or search by name  
