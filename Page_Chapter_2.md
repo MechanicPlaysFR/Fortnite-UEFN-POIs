@@ -114,7 +114,7 @@ New island, new mechanics, and new iconic POIs that defined the Chapter 2 era. T
 
 | Icon | POI Name | Description |
 |------|----------|-------------|
-| <img src=".assets/Dooms_Domain.png" width="256"/> | Doom’s Domain | Converted Pleasant Park ruled by Doctor Doom and his henchmen. |
+|  <img src=".assets/T-Icon-PS-CP-Island_Fortilla_105x105_a.png" width="256"/> | **[The Fortilla](https://github.com/MechanicPlaysFR/Fortnite-UEFN-POIs/blob/a417d1b3e398b3adae16bd7be28bc9b6c0be462d/SpawnerTexts/13_Fortilla_FULL_POI_a63joVRxDPch.txt)**<br>**(Ported by: MCPS)**<br><br>**Source: Chapter 2 Island** | Visually Modified: ✔️<br>Requires External Download: ❌|
 
 ---
 
