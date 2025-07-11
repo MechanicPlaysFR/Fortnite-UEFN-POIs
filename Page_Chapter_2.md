@@ -74,8 +74,7 @@ New island, new mechanics, and new iconic POIs that defined the Chapter 2 era. T
 
 | Icon | POI Name | Description |
 |------|----------|-------------|
-| <img src=".assets/Retail_Row_Mall.png" width="256"/> | Retail Row | Returned from Chapter 1, still packed with loot and action. |
-
+| <img src=".assets/ScreenShot00006.png" width="256"/> | **[Retail Row](https://github.com/MechanicPlaysFR/Fortnite-UEFN-POIs/blob/b39c7ffcdccf84d6762c686b8e9122dd5653722b/SpawnerTexts/Retail%20Row%20CH%202.txt)**<br>**(Ported by: MCPS)**<br><br>**Source: Chapter 2 Island** | Visually Modified: ✔️<br>Requires External Download: ❌|
 ---
 
 ## 🏕️ Weeping Woods
