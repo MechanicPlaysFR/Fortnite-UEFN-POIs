@@ -42,7 +42,7 @@ New island, new mechanics, and new iconic POIs that defined the Chapter 2 era. T
 
 | Icon | POI Name | Description |
 |------|----------|-------------|
-| <img src=".assets/Steamy_Stacks.png" width="256"/> | Steamy Stacks | Power plant with vertical ziplines and reactor stacks. |
+| <img src=".assets/ScreenShot00008.png" width="256"/> | **[Steamy Stacks](https://github.com/MechanicPlaysFR/Fortnite-UEFN-POIs/blob/d594df86822bc61cf7a6f2a963bf1a92d2f0d06e/SpawnerTexts/Steamy%20Stacks.txt)**<br>**(Ported by: MCPS)**<br><br>**Source: Chapter 2 Island** | Visually Modified: ✔️<br>Requires External Download: ❌|
 
 ---
 
