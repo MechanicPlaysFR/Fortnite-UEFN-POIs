@@ -140,11 +140,17 @@ New island, new mechanics, and new iconic POIs that defined the Chapter 2 era. T
 | <img src=".assets/The_Spire.png" width="256"/> | The Spire | Towered temple in the middle of the island with Guardians. |
 
 ---
-## 🌀 Pleasent Park
+## 🌀 Pleasant Park
 
 | Icon | POI Name | Description |
 |------|----------|-------------|
-| <img src=".assets/ScreenShot00005.png" width="256"/> | **[Pleasent Park](https://github.com/MechanicPlaysFR/Fortnite-UEFN-POIs/blob/edbbe16a50d9cf4af4780b12cd3869701075b054/SpawnerTexts/Pleasent%20Park%20CH%202.txt)**<br>**(Ported by: MCPS)**<br><br>**Source: Chapter 2 Island** | Visually Modified: ✔️<br>Requires External Download: ❌|
+| <img src=".assets/ScreenShot00005.png" width="256"/> | **[Pleasant Park](https://github.com/MechanicPlaysFR/Fortnite-UEFN-POIs/blob/edbbe16a50d9cf4af4780b12cd3869701075b054/SpawnerTexts/Pleasent%20Park%20CH%202.txt)**<br>**(Ported by: MCPS)**<br><br>**Source: Chapter 2 Island** | Visually Modified: ✔️<br>Requires External Download: ❌|
+---
+🌀 Salty Springs
+
+| Icon | POI Name | Description |
+|------|----------|-------------|
+| <img src=".assets/ScreenShot00007.png" width="256"/> | **[Salty Springs](https://github.com/MechanicPlaysFR/Fortnite-UEFN-POIs/blob/f7b7d364ef6984f3e442d705d3467c7c77428a42/SpawnerTexts/Salty%20Springs%20CH%202.txt)**<br>**(Ported by: MCPS)**<br><br>**Source: Chapter 2 Island** | Visually Modified: ✔️<br>Requires External Download: ❌|
 
 ---
 ## 🔧 How To Use This Page
