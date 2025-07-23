@@ -27,6 +27,13 @@
 | <img src=".assets/Harmony_Hotel.png" width="256"/> | **[Harmony Hotel](https://github.com/MechanicPlaysFR/Fortnite-UEFN-POIs/blob/93e95be4458e728fc0a2dc627726072a76a36a92/SpawnerTexts/Block_25x25_HarmonyHotel.txt)**<br>**(Ported by: MCPS)**<br><br>**Source: Chapter 1 Island** | Visually Modified: ✔️<br>Requires External Download: ❌|
 
 ---
+## 🏛️ Alien Sanctuary
+
+| Icon | POI Name | Description |
+|------|----------|-------------|
+| <img src=".assets/Alien_Sanctuary.png" width="256"/> | **[Alien Sanctuary](https://github.com/MechanicPlaysFR/Fortnite-UEFN-POIs/blob/4574d8ae3678df00b631a65087037a8fadf18cd2/SpawnerTexts/Block_25x25_AlienSanctuary.txt)**<br>**(Ported by: MCPS)**<br><br>**Source: Chapter 1 Island** | Visually Modified: ✔️<br>Requires External Download: ❌|
+
+---
 ## 🔧 How To Use This Page
 
 - Browse the images and POI names for inspiration or nostalgia  
